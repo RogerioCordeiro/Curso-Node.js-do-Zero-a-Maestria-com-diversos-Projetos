@@ -56,3 +56,14 @@
 - Como criar rotas utilizando o module fs criando paginas de navegação;
 - Como obter dados de um arquivo utilizando o metodo stat do module fs;
 - Como obter um caminho de um arquivo e criar caminhos para encontrar ou salvar arquivos utilizando o module fs;
+
+### Seção 4 [![My Skills](https://skillicons.dev/icons?i=npm)](https://skillicons.dev)
+
+- Nesta seção são explicados os fundamentos do `NPM` e aprofundar um pouco mais;
+- Para criar um novo projeto no npm você utiliza o comando `npm init`;
+- Para iniciar um projeto de uma maneira mais rápida pode digitar o comando `npm init -y` assim ele inicia o projeto respondendo as perguntas com os dados defaut;
+- Para instalar pacotes usa o comando `npm install <nomeDoPacote>`, uma boa prática e sempre colocar a pasta node_modules em um arquivo **.gitignore**;
+- Para encontar os modules do npm eles ficam no site [https://www.npmjs.com/](https://www.npmjs.com/);
+- Para instalar pacotes somente em modo de desenvolvimento utiliza o comando `npm install <nomeDoPacote> --save-dev` assim o pacote só será usado durante o desenvolvimento;
+- Para atualizar um pacote do npm utiliza o comando `npm update` podendo informa o nome do pacote ou sem o nome para atualizar todos os pacotes do projeto;
+- O NPM permite criar scripts para execurtar o programa ou realizar algum teste de maneira mais agil, como por exemplo `"start":"node index.js"`;
