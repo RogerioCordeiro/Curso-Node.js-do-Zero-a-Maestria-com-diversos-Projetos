@@ -54,3 +54,4 @@
 - Como utilizar o unlink para apagar arquivos com o module fs;
 - Como utilizar o rename para renormear arquivos com o module fs;
 - Como criar rotas utilizando o module fs criando paginas de navegação;
+- Como obter dados de um arquivo utilizando o metodo stat do module fs;
