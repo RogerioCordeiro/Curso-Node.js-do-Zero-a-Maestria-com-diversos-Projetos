@@ -19,4 +19,6 @@
 
 - Modulos são scripts reaproveitáveis. Internos: módulos que são desenvolvidos pelo proprio desenvovedor; Core modules: módulos que vem com o Node.js; Externos: módulos que são instalados via npm;
 
-- Para utilizar modulos internos que criamos durante o desenvolvimento tempos de utilizar o module.exports para exportar e o import ou require para importar o modulo.
+- Para utilizar modulos internos que criamos durante o desenvolvimento tempos de utilizar o module.exports para exportar e o import ou require para importar o modulo;
+
+- Para utilizar o export import os arquivos precisam ser na extensão nomeDoArquivo.mjs;
