@@ -12,6 +12,11 @@ inquirer.prompt([
     }
 ])
     .then((answers) => {
-        console.log(chalk.bgYellow.black.bold(`Olá ${answers.nome} voce digitou ${answers.idade}, está é sua idade?`))
+        if (answers.idade > 30) {
+            console.log(chalk.bgYellow.black.bold(`Olá ${answers.nome} você tem ${answers.idade}, está ficando velhinho!`))
+        } else {
+            console.log(chalk.bgGreen.black(`Olá ${answers.nome} você tem ${answers.idade}, não está mentindo a sua idade né?`))
+        }
+
     })
     .catch((err) => console.log(err))
