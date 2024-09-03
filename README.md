@@ -44,3 +44,5 @@
 - Como utilizar o http para criar servidores, para cancelar o servico no terminal basta precionar **CTRL + C**;
 
 - Orientação de como atualizar a página quando o server está em execução, precisa para o serviço e iniciar novamente. Como utilizar o medo http em conjunto com o metodo url para receber valores e interagir com o usuário;
+
+- Utiliznado o fs para enviar arquivos htmls para a página assim pode ser escrito as tags html em um arquivo e enviado diretamente, sem a necessidade de digitar as tags no arquivo de script;
