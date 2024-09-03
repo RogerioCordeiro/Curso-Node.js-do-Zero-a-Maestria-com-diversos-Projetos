@@ -47,5 +47,7 @@
 
 - Utiliznado o fs para enviar arquivos htmls para a página assim pode ser escrito as tags html em um arquivo e enviado diretamente, sem a necessidade de digitar as tags no arquivo de script;
 
-- Como utiliar o writeFile para escrever em arquivos.
-- Como utlizar o appendFile para atualizar informações no arquivo
+- Como utilizar o writeFile para escrever em arquivos;
+- Como utilizar o appendFile para atualizar informações no arquivo;
+- Como utilizar o unlink para apagar arquivos com o module fs;
+- Como utilizar o rename para renormear arquivos com o module fs;
