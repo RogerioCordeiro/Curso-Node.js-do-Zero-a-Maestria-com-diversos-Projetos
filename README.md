@@ -28,3 +28,7 @@
 - Como iniciar um projeto com o comando `npm init` e como instalar modulos externos com o comando `npm install nomeDoPacote` no curso usamos o `npm install minimist`, para usar ele no arquivo declara-se da seguinte forma `const minimist = require('minimist)`;
 
 - Uso do console e suas funções e modulos possui alguns exemplos no arquivo _index.js_ na pasta **7 explorando console**
+
+- A biblioteca chalk é utilizada para mudar do texto no console.
+
+- Tarefa da seção 2 realizar um script que pergute ao usuário qual o seu nome e a idade e imprimir na tela a mensagem com fundo em amarelo e o texto em preto.
