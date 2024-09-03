@@ -17,7 +17,7 @@
 - Para concluir foi deixado um desafio para criar um primeiro programa em node.js
 - O desafio para ser execurtado basta baixar o arquivo _programa.js_ abrir o terminal na pasta onde baixou o arquivo e digitar no terminal `node .\programa.js` o programa vai ser execultado com node.
 
-## Secao 2
+## Seção 2
 
 - Utilizar o chalk versão 4.1.2 para evitar erros ao utilizar o require que será apresentado durante o curso, para isso instarlar ele pelo terminar da sequinte forma `npm install chalk@4.1.2` assim será instalada a versão exata declarada;
 
@@ -31,8 +31,16 @@
 
 - Como iniciar um projeto com o comando `npm init` e como instalar modulos externos com o comando `npm install nomeDoPacote` no curso usamos o `npm install minimist`, para usar ele no arquivo declara-se da seguinte forma `const minimist = require('minimist)`;
 
-- Uso do console e suas funções e modulos possui alguns exemplos no arquivo _index.js_ na pasta **7 explorando console**
+- Uso do console e suas funções e modulos possui alguns exemplos no arquivo _index.js_ na pasta **7 explorando console**;
 
-- A biblioteca chalk é utilizada para mudar do texto no console.
+- A biblioteca chalk é utilizada para mudar do texto no console;
 
-- Tarefa da seção 2 realizar um script que pergute ao usuário qual o seu nome e a idade e imprimir na tela a mensagem com fundo em amarelo e o texto em preto.
+- Tarefa da seção 2 realizar um script que pergute ao usuário qual o seu nome e a idade e imprimir na tela a mensagem com fundo em amarelo e o texto em preto;
+
+## Seção 3
+
+- Nesta seção será apresentado o uso de Core Módulos como Http, path, fs, url;
+
+- Como utilizar o http para criar servidores, para cancelar o servico no terminal basta precionar **CTRL + C**;
+
+-
