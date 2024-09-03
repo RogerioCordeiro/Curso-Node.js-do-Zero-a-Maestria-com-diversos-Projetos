@@ -1,10 +1,12 @@
 # Curso Node.js do Zero ao Avançado
 
-# Linguagens utilizadas durante o curso
+## Linguagens utilizadas durante o curso
 
-[![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev) &emsp; [![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev) &emsp; [![My Skills](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev) &emsp; [![My Skills](https://skillicons.dev/icons?i=npm)](https://skillicons.dev)
+&emsp; [![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev) &emsp; [![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev) &emsp; [![My Skills](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=npm)](https://skillicons.dev)
 
-## Seção 1
+##
+
+### Seção 1
 
 - A primeira seção do curso ele apresenta como vai funcionar o curso, sua estrutura.
 - Está seção possui 18 aulas
@@ -17,7 +19,7 @@
 - Para concluir foi deixado um desafio para criar um primeiro programa em node.js
 - O desafio para ser execurtado basta baixar o arquivo _programa.js_ abrir o terminal na pasta onde baixou o arquivo e digitar no terminal `node .\programa.js` o programa vai ser execultado com node.
 
-## Seção 2
+### Seção 2
 
 - Utilizar o chalk versão 4.1.2 para evitar erros ao utilizar o require que será apresentado durante o curso, para isso instarlar ele pelo terminar da sequinte forma `npm install chalk@4.1.2` assim será instalada a versão exata declarada;
 
@@ -37,7 +39,7 @@
 
 - Tarefa da seção 2 realizar um script que pergute ao usuário qual o seu nome e a idade e imprimir na tela a mensagem com fundo em amarelo e o texto em preto;
 
-## Seção 3
+### Seção 3
 
 - Nesta seção será apresentado o uso de Core Módulos como Http, path, fs, url;
 
@@ -51,3 +53,4 @@
 - Como utilizar o appendFile para atualizar informações no arquivo;
 - Como utilizar o unlink para apagar arquivos com o module fs;
 - Como utilizar o rename para renormear arquivos com o module fs;
+- Como criar rotas utilizando o module fs criando paginas de navegação;
