@@ -43,4 +43,4 @@
 
 - Como utilizar o http para criar servidores, para cancelar o servico no terminal basta precionar **CTRL + C**;
 
--
+- Orientação de como atualizar a página quando o server está em execução, precisa para o serviço e iniciar novamente.
