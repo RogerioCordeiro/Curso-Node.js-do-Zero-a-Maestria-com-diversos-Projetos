@@ -11,3 +11,4 @@
 - Como utilizar o comando de executar um arquivo com código `node nomedoarquivo`.
 - Utilização de modulos com fazer a importação de modulos exemplo: `const nomeVariavel = require('nomeDoPacote')` (no futuro será explicado o uso do import)
 - Para concluir foi deixado um desafio para criar um primeiro programa em node.js
+- O desafio para ser execurtado basta baixar o arquivo _programa.js_ abrir o terminal na pasta onde baixou o arquivo e digitar no terminal `node .\programa.js` o programa vai ser execultado com node.
