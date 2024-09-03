@@ -22,3 +22,5 @@
 - Para utilizar modulos internos que criamos durante o desenvolvimento tempos de utilizar o module.exports para exportar e o import ou require para importar o modulo;
 
 - Para utilizar o export import os arquivos precisam ser na extensão nomeDoArquivo.mjs;
+
+- O uso de leitura de argumentos quando execultado um arquivo js com node. `process.argv` ao executar o arquivo `node arquivo.js` informar o argumento por exemplo `nome=Rogerio`;
