@@ -24,3 +24,5 @@
 - Para utilizar o export import os arquivos precisam ser na extensão nomeDoArquivo.mjs;
 
 - O uso de leitura de argumentos quando execultado um arquivo js com node. `process.argv` ao executar o arquivo `node arquivo.js` informar o argumento por exemplo `nome=Rogerio`;
+
+- Como iniciar um projeto com o comando `npm init` e como instalar modulos externos com o comando `npm install nomeDoPacote` no curso usamos o `npm install minimist`, para usar ele no arquivo declara-se da seguinte forma `const minimist = require('minimist)`
