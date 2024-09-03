@@ -48,3 +48,4 @@
 - Utiliznado o fs para enviar arquivos htmls para a página assim pode ser escrito as tags html em um arquivo e enviado diretamente, sem a necessidade de digitar as tags no arquivo de script;
 
 - Como utiliar o writeFile para escrever em arquivos.
+- Como utlizar o appendFile para atualizar informações no arquivo
