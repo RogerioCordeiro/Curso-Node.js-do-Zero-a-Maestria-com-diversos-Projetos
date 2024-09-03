@@ -1,5 +1,9 @@
 # Curso Node.js do Zero ao Avançado
 
+# Linguagens utilizadas durante o curso
+
+[![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev) &emsp; [![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev) &emsp; [![My Skills](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev) &emsp; [![My Skills](https://skillicons.dev/icons?i=npm)](https://skillicons.dev)
+
 ## Seção 1
 
 - A primeira seção do curso ele apresenta como vai funcionar o curso, sua estrutura.
