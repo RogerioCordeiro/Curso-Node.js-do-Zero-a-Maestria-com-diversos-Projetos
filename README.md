@@ -55,3 +55,4 @@
 - Como utilizar o rename para renormear arquivos com o module fs;
 - Como criar rotas utilizando o module fs criando paginas de navegação;
 - Como obter dados de um arquivo utilizando o metodo stat do module fs;
+- Como obter um caminho de um arquivo e criar caminhos para encontrar ou salvar arquivos utilizando o module fs;
