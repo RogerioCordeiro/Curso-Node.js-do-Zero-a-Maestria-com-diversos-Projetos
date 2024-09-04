@@ -22,33 +22,21 @@
 ### Seção 2
 
 - Utilizar o chalk versão 4.1.2 para evitar erros ao utilizar o require que será apresentado durante o curso, para isso instarlar ele pelo terminar da sequinte forma `npm install chalk@4.1.2` assim será instalada a versão exata declarada;
-
 - Modulos são scripts reaproveitáveis. Internos: módulos que são desenvolvidos pelo proprio desenvovedor; Core modules: módulos que vem com o Node.js; Externos: módulos que são instalados via npm;
-
 - Para utilizar modulos internos que criamos durante o desenvolvimento tempos de utilizar o module.exports para exportar e o import ou require para importar o modulo;
-
 - Para utilizar o export import os arquivos precisam ser na extensão nomeDoArquivo.mjs;
-
 - O uso de leitura de argumentos quando execultado um arquivo js com node. `process.argv` ao executar o arquivo `node arquivo.js` informar o argumento por exemplo `nome=Rogerio`;
-
 - Como iniciar um projeto com o comando `npm init` e como instalar modulos externos com o comando `npm install nomeDoPacote` no curso usamos o `npm install minimist`, para usar ele no arquivo declara-se da seguinte forma `const minimist = require('minimist)`;
-
 - Uso do console e suas funções e modulos possui alguns exemplos no arquivo _index.js_ na pasta **7 explorando console**;
-
 - A biblioteca chalk é utilizada para mudar do texto no console;
-
 - Tarefa da seção 2 realizar um script que pergute ao usuário qual o seu nome e a idade e imprimir na tela a mensagem com fundo em amarelo e o texto em preto;
 
 ### Seção 3
 
 - Nesta seção será apresentado o uso de Core Módulos como Http, path, fs, url;
-
 - Como utilizar o http para criar servidores, para cancelar o servico no terminal basta precionar **CTRL + C**;
-
 - Orientação de como atualizar a página quando o server está em execução, precisa para o serviço e iniciar novamente. Como utilizar o medo http em conjunto com o metodo url para receber valores e interagir com o usuário;
-
 - Utiliznado o fs para enviar arquivos htmls para a página assim pode ser escrito as tags html em um arquivo e enviado diretamente, sem a necessidade de digitar as tags no arquivo de script;
-
 - Como utilizar o writeFile para escrever em arquivos;
 - Como utilizar o appendFile para atualizar informações no arquivo;
 - Como utilizar o unlink para apagar arquivos com o module fs;
@@ -70,3 +58,7 @@
 - Para instalar um pacote de forma global que fica salvo no computador em vez do projeto utiliza o comando `npm install <nomeDoPacote> -g` o -g se refere a inslação global. Alguns pacotes instalados de forma global precisa ser usado o comando `npm link <nomeDoPacote>` para poder utilizar ele no projeto;
 - O `npx` é utlizado para execultar codigos diretamente no terminal, como por exemplo o modulo **cowsay**: `npx cowsay "Hello World"` ou `npx cowsay -d "morri"`;
 - O comando `npm uninstall <nomeDoPacote>` serve para remover o pacote do do projeto e remover seu arquivos do diretório quando instalados;
+
+### Seção 5 - _Projeto conta bancária_
+
+- Nesta seção será desenvovido um projeto de conta bancária utilizando node.js no terminal;
