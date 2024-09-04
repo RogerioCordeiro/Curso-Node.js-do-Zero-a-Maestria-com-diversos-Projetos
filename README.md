@@ -84,6 +84,7 @@
 ### Seção 7 - _Template Engine com Express_ [![My Skills](https://skillicons.dev/icons?i=express)](https://skillicons.dev)
 
 - Templete Engine são formas de deixar o html dinâmico ele é essecial para usar banco de dados para projetos que não sejam estáticos;
-- Handlebars um template engines para incluir dados dinâmicos no HTML utilizando `{{}}` para serem impressos;
+- Handlebars um template engines para incluir dados dinâmicos no HTML utilizando `{{{}}}` para serem impressos;
 - um ponto de atenção durante o curso é a forma de utilizar o Handlebars foi alterada, para funcionar corretamente precisa utiliza-lo desta forma `app.engine('handlebars', exphbs.engine())`;
 - Primeira aplicação utilizando o handlebars para carregar os arquivos da views;
+  -Uso da sintase `{{{body}}}` para carregar html atraves do layouts;
