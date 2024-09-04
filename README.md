@@ -67,3 +67,6 @@
 - Para instalar pacotes somente em modo de desenvolvimento utiliza o comando `npm install <nomeDoPacote> --save-dev` assim o pacote só será usado durante o desenvolvimento;
 - Para atualizar um pacote do npm utiliza o comando `npm update` podendo informa o nome do pacote ou sem o nome para atualizar todos os pacotes do projeto;
 - O NPM permite criar scripts para execurtar o programa ou realizar algum teste de maneira mais agil, como por exemplo `"start":"node index.js"`;
+- Para instalar um pacote de forma global que fica salvo no computador em vez do projeto utiliza o comando `npm install <nomeDoPacote> -g` o -g se refere a inslação global. Alguns pacotes instalados de forma global precisa ser usado o comando `npm link <nomeDoPacote>` para poder utilizar ele no projeto;
+- O `npx` é utlizado para execultar codigos diretamente no terminal, como por exemplo o modulo **cowsay**: `npx cowsay "Hello World"` ou `npx cowsay -d "morri"`;
+- O comando `npm uninstall <nomeDoPacote>` serve para remover o pacote do do projeto e remover seu arquivos do diretório quando instalados;
