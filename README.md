@@ -89,3 +89,4 @@
 - Primeira aplicação utilizando o handlebars para carregar os arquivos da views;
 - Uso da sintase `{{{body}}}` para carregar html atraves do layouts;
 - Uso de variaveis carregar dados do backend no front com o uso do handlebars;
+- Como utilizar o condicionais no handlebars `{{#if booleano}} ação {{/if}}` essa é a sintaxe que deve ser utilizada;
