@@ -71,3 +71,4 @@
 - Está seção tem por finalidade aprender como utilizar o express para criar rotas e criar aplicações de maneira mais simplificada, utilizando rodas e renderizando html com conexão com banco de dados;
 - Para fazer o uso do _express_ em um projeto basta usar o comando `npm installl express`;
 - Criando a primeira rota e iniciando um aplicação com express utilizando get e listen;
+- Uso do metodo sendFile do express para chamar arquivos html;
