@@ -72,3 +72,4 @@
 - Para fazer o uso do _express_ em um projeto basta usar o comando `npm installl express`;
 - Criando a primeira rota e iniciando um aplicação com express utilizando get e listen;
 - Uso do metodo sendFile do express para chamar arquivos html;
+  -Uso do nodemon para atualizar a pagina assim que realizar alterações no arquivo html;
