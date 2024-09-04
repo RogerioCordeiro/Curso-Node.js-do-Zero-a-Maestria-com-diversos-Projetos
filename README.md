@@ -45,7 +45,9 @@
 - Como obter dados de um arquivo utilizando o metodo stat do module fs;
 - Como obter um caminho de um arquivo e criar caminhos para encontrar ou salvar arquivos utilizando o module fs;
 
-### Seção 4 [![My Skills](https://skillicons.dev/icons?i=npm)](https://skillicons.dev)
+### Seção 4
+
+[![My Skills](https://skillicons.dev/icons?i=npm)](https://skillicons.dev)
 
 - Nesta seção são explicados os fundamentos do `NPM` e aprofundar um pouco mais;
 - Para criar um novo projeto no npm você utiliza o comando `npm init`;
@@ -67,6 +69,8 @@
 [![Run on Replit](https://replit.com/badge/github/username/repo-name)](https://replit.com/@rocordeirosilva/Projeto-conta-bancaria)
 
 ### Seção 6 - _Framework Express_
+
+[![My Skills](https://skillicons.dev/icons?i=express)](https://skillicons.dev)
 
 - Está seção tem por finalidade aprender como utilizar o express para criar rotas e criar aplicações de maneira mais simplificada, utilizando rodas e renderizando html com conexão com banco de dados;
 - Para fazer o uso do _express_ em um projeto basta usar o comando `npm installl express`;
