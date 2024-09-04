@@ -87,4 +87,5 @@
 - Handlebars um template engines para incluir dados dinâmicos no HTML utilizando `{{{}}}` para serem impressos;
 - um ponto de atenção durante o curso é a forma de utilizar o Handlebars foi alterada, para funcionar corretamente precisa utiliza-lo desta forma `app.engine('handlebars', exphbs.engine())`;
 - Primeira aplicação utilizando o handlebars para carregar os arquivos da views;
-  -Uso da sintase `{{{body}}}` para carregar html atraves do layouts;
+- Uso da sintase `{{{body}}}` para carregar html atraves do layouts;
+- Uso de variaveis carregar dados do backend no front com o uso do handlebars;
