@@ -78,3 +78,4 @@
 - Realizar post de dados via express;
 - A pasta 09 possui todo o restante do curso devido a quantidade de arquivos e dados para diminuir ficar criando novas pastas;
 - Uso do Router do express para criar as rotas exemplo usado com a rota users;
+- Uso do css com express para estilizar a página com o uso da chamada `express.static('public')`;
