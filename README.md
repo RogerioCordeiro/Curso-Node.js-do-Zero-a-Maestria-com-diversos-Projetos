@@ -68,4 +68,5 @@
 
 ### Seção 6 - _Framework Express_
 
-- Está seção tem por finalidade aprender como utilizar o express para criar rotas e criar aplicações de maneira mais simplificada, utilizando rodas e renderizando html com conexão com banco de dados.
+- Está seção tem por finalidade aprender como utilizar o express para criar rotas e criar aplicações de maneira mais simplificada, utilizando rodas e renderizando html com conexão com banco de dados;
+- Para fazer o uso do _express_ em um projeto basta usar o comando `npm installl express`;
