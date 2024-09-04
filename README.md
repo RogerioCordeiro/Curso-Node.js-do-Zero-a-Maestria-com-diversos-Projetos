@@ -70,3 +70,7 @@
 - Para instalar um pacote de forma global que fica salvo no computador em vez do projeto utiliza o comando `npm install <nomeDoPacote> -g` o -g se refere a inslação global. Alguns pacotes instalados de forma global precisa ser usado o comando `npm link <nomeDoPacote>` para poder utilizar ele no projeto;
 - O `npx` é utlizado para execultar codigos diretamente no terminal, como por exemplo o modulo **cowsay**: `npx cowsay "Hello World"` ou `npx cowsay -d "morri"`;
 - O comando `npm uninstall <nomeDoPacote>` serve para remover o pacote do do projeto e remover seu arquivos do diretório quando instalados;
+
+### Seção 5 - _Projeto conta bancária_
+
+- Nesta seção será desenvovido um projeto de conta bancária utilizando node.js no terminal;
