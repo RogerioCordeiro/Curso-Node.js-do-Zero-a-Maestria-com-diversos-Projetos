@@ -91,3 +91,4 @@
 - Uso de variaveis carregar dados do backend no front com o uso do handlebars;
 - Como utilizar o condicionais no handlebars `{{#if booleano}} ação {{/if}}` essa é a sintaxe que deve ser utilizada;
 - Uso da condicional else no handlebars se faz por meio da sintaxe `{{#if booleano}} ação {{else}} ação {{/if}}`;
+- Como fazer o uso de repeticao por meio da sintaxe `{{#each}} {{this }} {{/each}}` assim o valor é sempre representado pela palavra _this_;
