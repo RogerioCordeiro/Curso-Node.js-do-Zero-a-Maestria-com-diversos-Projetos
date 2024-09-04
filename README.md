@@ -80,3 +80,4 @@
 - Uso do Router do express para criar as rotas exemplo usado com a rota users;
 - Uso do css com express para estilizar a página com o uso da chamada `express.static('public')`;
 - Como criar uma página 404 caso a rota não exista;
+- Final da seção foi criado uma tarefa para fazer 2 páginas alterando o plano de fundo delas, fonte e cor das letras. Projeto está na pasta secao6/10_tafera_secao6;
