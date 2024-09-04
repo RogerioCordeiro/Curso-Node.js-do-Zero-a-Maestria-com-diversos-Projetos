@@ -90,3 +90,4 @@
 - Uso da sintase `{{{body}}}` para carregar html atraves do layouts;
 - Uso de variaveis carregar dados do backend no front com o uso do handlebars;
 - Como utilizar o condicionais no handlebars `{{#if booleano}} ação {{/if}}` essa é a sintaxe que deve ser utilizada;
+- Uso da condicional else no handlebars se faz por meio da sintaxe `{{#if booleano}} ação {{else}} ação {{/if}}`;
