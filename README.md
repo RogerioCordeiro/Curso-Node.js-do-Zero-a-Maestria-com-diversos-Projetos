@@ -63,10 +63,9 @@
 
 - Nesta seção será desenvovido um projeto de conta bancária utilizando node.js no terminal;
 - Para testar a aplicação basta clicar no link abaixo:
+  [![Run on Replit](https://replit.com/badge/github/username/repo-name)](https://replit.com/@rocordeirosilva/Projeto-conta-bancaria)
 
-[![Run on Replit](https://replit.com/badge/github/username/repo-name)](https://replit.com/@rocordeirosilva/Projeto-conta-bancaria)
-
-### Seção 6 - _Framework Express_
+### Seção 6 - _Framework Express_ [![My Skills](https://skillicons.dev/icons?i=express)](https://skillicons.dev)
 
 - Está seção tem por finalidade aprender como utilizar o express para criar rotas e criar aplicações de maneira mais simplificada, utilizando rodas e renderizando html com conexão com banco de dados;
 - Para fazer o uso do _express_ em um projeto basta usar o comando `npm installl express`;
@@ -81,3 +80,9 @@
 - Uso do css com express para estilizar a página com o uso da chamada `express.static('public')`;
 - Como criar uma página 404 caso a rota não exista;
 - Final da seção foi criado uma tarefa para fazer 2 páginas alterando o plano de fundo delas, fonte e cor das letras. Projeto está na pasta secao6/10_tafera_secao6;
+
+### Seção 7 - _Template Engine com Express_ [![My Skills](https://skillicons.dev/icons?i=express)](https://skillicons.dev)
+
+- Templete Engine são formas de deixar o html dinâmico ele é essecial para usar banco de dados para projetos que não sejam estáticos;
+- Handlebars um template engines para incluir dados dinâmicos no HTML utilizando `{{}}` para serem impressos;
+- um ponto de atenção durante o curso é a forma de utilizar o Handlebars foi alterada, para funcionar corretamente precisa utiliza-lo desta forma `app.engine('handlebars', exphs.engine())`;
