@@ -2,11 +2,13 @@
 
 ## Linguagens utilizadas durante o curso
 
-&emsp; [![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev) &emsp; [![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev) &emsp; [![My Skills](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=npm)](https://skillicons.dev)
+&emsp; [![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev) &emsp; [![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev) &emsp; [![My Skills](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=npm)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=express)](https://skillicons.dev)
 
 ##
 
 ### Seção 1
+
+[![My Skills](https://skillicons.dev/icons?i=npm)](https://skillicons.dev)
 
 - A primeira seção do curso ele apresenta como vai funcionar o curso, sua estrutura.
 - Está seção possui 18 aulas
@@ -21,6 +23,8 @@
 
 ### Seção 2
 
+[![My Skills](https://skillicons.dev/icons?i=npm)](https://skillicons.dev)
+
 - Utilizar o chalk versão 4.1.2 para evitar erros ao utilizar o require que será apresentado durante o curso, para isso instarlar ele pelo terminar da sequinte forma `npm install chalk@4.1.2` assim será instalada a versão exata declarada;
 - Modulos são scripts reaproveitáveis. Internos: módulos que são desenvolvidos pelo proprio desenvovedor; Core modules: módulos que vem com o Node.js; Externos: módulos que são instalados via npm;
 - Para utilizar modulos internos que criamos durante o desenvolvimento tempos de utilizar o module.exports para exportar e o import ou require para importar o modulo;
@@ -32,6 +36,8 @@
 - Tarefa da seção 2 realizar um script que pergute ao usuário qual o seu nome e a idade e imprimir na tela a mensagem com fundo em amarelo e o texto em preto;
 
 ### Seção 3
+
+[![My Skills](https://skillicons.dev/icons?i=npm)](https://skillicons.dev)
 
 - Nesta seção será apresentado o uso de Core Módulos como Http, path, fs, url;
 - Como utilizar o http para criar servidores, para cancelar o servico no terminal basta precionar **CTRL + C**;
