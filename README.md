@@ -74,3 +74,4 @@
 - Uso do metodo sendFile do express para chamar arquivos html;
   -Uso do nodemon para atualizar a pagina assim que realizar alterações no arquivo html;
 - Uso de middleware para controle de acesso a rotas e verificações;
+- Obter dados da url usam o params para obter os dados enviados via url
