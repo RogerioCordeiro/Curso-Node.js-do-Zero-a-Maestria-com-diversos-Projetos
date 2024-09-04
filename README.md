@@ -62,3 +62,21 @@
 ### Seção 5 - _Projeto conta bancária_
 
 - Nesta seção será desenvovido um projeto de conta bancária utilizando node.js no terminal;
+- Para testar a aplicação basta clicar no link abaixo:
+
+[![Run on Replit](https://replit.com/badge/github/username/repo-name)](https://replit.com/@rocordeirosilva/Projeto-conta-bancaria)
+
+### Seção 6 - _Framework Express_
+
+- Está seção tem por finalidade aprender como utilizar o express para criar rotas e criar aplicações de maneira mais simplificada, utilizando rodas e renderizando html com conexão com banco de dados;
+- Para fazer o uso do _express_ em um projeto basta usar o comando `npm installl express`;
+- Criando a primeira rota e iniciando um aplicação com express utilizando get e listen;
+- Uso do metodo sendFile do express para chamar arquivos html;
+  -Uso do nodemon para atualizar a pagina assim que realizar alterações no arquivo html;
+- Uso de middleware para controle de acesso a rotas e verificações;
+- Obter dados da url usam o params para obter os dados enviados via url
+- Realizar post de dados via express;
+- A pasta 09 possui todo o restante do curso devido a quantidade de arquivos e dados para diminuir ficar criando novas pastas;
+- Uso do Router do express para criar as rotas exemplo usado com a rota users;
+- Uso do css com express para estilizar a página com o uso da chamada `express.static('public')`;
+- Como criar uma página 404 caso a rota não exista;
