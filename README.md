@@ -92,3 +92,5 @@
 - Como utilizar o condicionais no handlebars `{{#if booleano}} ação {{/if}}` essa é a sintaxe que deve ser utilizada;
 - Uso da condicional else no handlebars se faz por meio da sintaxe `{{#if booleano}} ação {{else}} ação {{/if}}`;
 - Como fazer o uso de repeticao por meio da sintaxe `{{#each}} {{this }} {{/each}}` assim o valor é sempre representado pela palavra _this_;
+- A partir da aula 6 foi utilizado somente um projeto o 6 pois a pasta node_modules estava ficando pesada e demorando para carregar o arquivo;
+- Fazer o uso do _with_ para diminuir as referencias a um objeto a sintaxe dele é `{{#with objeto}} ... {{/with}}`;
