@@ -73,7 +73,7 @@
 - Para testar a aplicação basta clicar no link abaixo:
   [![Run on Replit](https://replit.com/badge/github/username/repo-name)](https://replit.com/@rocordeirosilva/Projeto-conta-bancaria)
 
-### Seção 6 - _Framework Express_ [![My Skills](https://skillicons.dev/icons?i=express)](https://skillicons.dev)
+### Seção 6 - _Framework Express_
 
 [![My Skills](https://skillicons.dev/icons?i=express)](https://skillicons.dev)
 
@@ -91,7 +91,9 @@
 - Como criar uma página 404 caso a rota não exista;
 - Final da seção foi criado uma tarefa para fazer 2 páginas alterando o plano de fundo delas, fonte e cor das letras. Projeto está na pasta secao6/10_tafera_secao6;
 
-### Seção 7 - _Template Engine com Express_ [![My Skills](https://skillicons.dev/icons?i=express)](https://skillicons.dev)
+### Seção 7 - _Template Engine com Express_
+
+[![My Skills](https://skillicons.dev/icons?i=express)](https://skillicons.dev)
 
 - Templete Engine são formas de deixar o html dinâmico ele é essecial para usar banco de dados para projetos que não sejam estáticos;
 - Handlebars um template engines para incluir dados dinâmicos no HTML utilizando `{{{}}}` para serem impressos;
