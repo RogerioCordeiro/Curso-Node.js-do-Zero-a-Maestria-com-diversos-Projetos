@@ -71,10 +71,9 @@
 
 - Nesta seção será desenvovido um projeto de conta bancária utilizando node.js no terminal;
 - Para testar a aplicação basta clicar no link abaixo:
+  [![Run on Replit](https://replit.com/badge/github/username/repo-name)](https://replit.com/@rocordeirosilva/Projeto-conta-bancaria)
 
-[![Run on Replit](https://replit.com/badge/github/username/repo-name)](https://replit.com/@rocordeirosilva/Projeto-conta-bancaria)
-
-### Seção 6 - _Framework Express_
+### Seção 6 - _Framework Express_ [![My Skills](https://skillicons.dev/icons?i=express)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=express)](https://skillicons.dev)
 
@@ -91,3 +90,17 @@
 - Uso do css com express para estilizar a página com o uso da chamada `express.static('public')`;
 - Como criar uma página 404 caso a rota não exista;
 - Final da seção foi criado uma tarefa para fazer 2 páginas alterando o plano de fundo delas, fonte e cor das letras. Projeto está na pasta secao6/10_tafera_secao6;
+
+### Seção 7 - _Template Engine com Express_ [![My Skills](https://skillicons.dev/icons?i=express)](https://skillicons.dev)
+
+- Templete Engine são formas de deixar o html dinâmico ele é essecial para usar banco de dados para projetos que não sejam estáticos;
+- Handlebars um template engines para incluir dados dinâmicos no HTML utilizando `{{{}}}` para serem impressos;
+- um ponto de atenção durante o curso é a forma de utilizar o Handlebars foi alterada, para funcionar corretamente precisa utiliza-lo desta forma `app.engine('handlebars', exphbs.engine())`;
+- Primeira aplicação utilizando o handlebars para carregar os arquivos da views;
+- Uso da sintase `{{{body}}}` para carregar html atraves do layouts;
+- Uso de variaveis carregar dados do backend no front com o uso do handlebars;
+- Como utilizar o condicionais no handlebars `{{#if booleano}} ação {{/if}}` essa é a sintaxe que deve ser utilizada;
+- Uso da condicional else no handlebars se faz por meio da sintaxe `{{#if booleano}} ação {{else}} ação {{/if}}`;
+- Como fazer o uso de repeticao por meio da sintaxe `{{#each}} {{this }} {{/each}}` assim o valor é sempre representado pela palavra _this_;
+- A partir da aula 6 foi utilizado somente um projeto o 6 pois a pasta node_modules estava ficando pesada e demorando para carregar o arquivo;
+- Fazer o uso do _with_ para diminuir as referencias a um objeto a sintaxe dele é `{{#with objeto}} ... {{/with}}`;
